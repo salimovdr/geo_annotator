@@ -1,1 +1,4 @@
-GSM_list.txt
+UID_list.txt
+batch_chunks_miniml/
+GSM_GSE_dict.json
+.ipynb_checkpoints/
