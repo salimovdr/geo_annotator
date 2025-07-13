@@ -14,4 +14,4 @@
 
 `("Mus musculus"[Organism] OR "Rattus norvegicus"[Organism]) AND ("single cell"[All Fields] OR "single-cell"[All Fields] OR "scRNA-seq"[All Fields] OR "sc RNA-seq"[All Fields] OR "scRNA seq"[All Fields] OR "sc RNA seq"[All Fields] OR "scRNAseq"[All Fields] OR "sc-rna-seq"[All Fields] OR "single-cell RNA"[All Fields] OR "single cell RNA seq"[All Fields] OR "single-cell transcriptome"[All Fields] OR "10x"[All Fields] OR "10x Genomics"[All Fields] OR "Smart-seq"[All Fields] OR "Drop-seq"[All Fields] OR "sci-RNA-seq"[All Fields] OR "Seq-Well"[All Fields] OR "MARS-seq"[All Fields] OR "Microwell-seq"[All Fields])`
 
-Результат запроса (список уникальных id) был сохранён в файл GSM_list.txt.
+Результат запроса (список уникальных id) был сохранён в файл UID_list.txt.
